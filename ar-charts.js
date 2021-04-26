@@ -1,5 +1,3 @@
-<script async src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
 const data = {
     labels : ["Maintenance-led Contracts","Management-led Contracts","Development"],
     datasets: [
